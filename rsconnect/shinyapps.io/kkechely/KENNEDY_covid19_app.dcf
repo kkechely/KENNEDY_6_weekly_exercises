@@ -1,0 +1,13 @@
+name: KENNEDY_covid19_app
+title: KENNEDY_covid19_app
+username:
+account: kkechely
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3728416
+bundleId: 4295615
+url: https://kkechely.shinyapps.io/KENNEDY_covid19_app/
+when: 1614783403.02381
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: 06_exercises.Rmd|Groceries_dataset.csv|README.md
