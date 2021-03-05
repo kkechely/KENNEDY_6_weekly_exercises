@@ -12,7 +12,7 @@ output:
 
 
 ```{r setup, include=FALSE}
-#knitr::opts_chunk$set(echo = TRUE, error=TRUE, message=FALSE, warning=FALSE)
+knitr::opts_chunk$set(echo = TRUE, error=TRUE, message=FALSE, warning=FALSE)
 ```
 
 ```{r libraries}
@@ -102,7 +102,6 @@ groceries <- read_csv("Groceries_dataset.csv")
 #       ) %>% as.character()
 ```
 
-![](garden_table.html){width=600, height=1000}
 
 
   5. Create a table using `gt` with data from your project or from the `garden_harvest` data if your project data aren't ready.
